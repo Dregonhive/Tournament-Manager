@@ -1,0 +1,15 @@
+Poule 1: Bielorussie Turquie 56-104
+Poule 1: France Lettonie 100-109
+Poule 1: Bielorussie Lettonie 100-120
+Poule 1: France Turquie 120-100
+Poule 1: Turquie Lettonie 140-40
+Poule 1: Bielorussie France 100-70
+Poule 2: Pays-Bas Croatie 40-103
+Poule 2: Portugal Allemagne 90-89
+Poule 2: Pays-Bas Allemagne 120-30
+Poule 2: Portugal Croatie 100-99
+Poule 2: Pays-Bas Portugal 67-100
+Poule 2: Allemagne Croatie 120-130
+Phase 1: Turquie Portugal 100-99
+Phase 1: Lettonie Croatie 30-100
+Final: Turquie Croatie 100-120
